@@ -1,5 +1,5 @@
 # odin-recipes
-This is a small project to build a relatively simple website with links to 3 recipes. The recipes
+This is a small project to build a HTML page with links to 3 recipes. The recipes
 have an image, description, ingredients, and steps required in order to prepare them. The project
 also had the aim of getting comfortable adding and commiting to Git with meaningful commit messages.
 
