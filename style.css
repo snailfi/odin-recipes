@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Verdana, sans-serif;
+    background: rgba(31, 31, 35);
+    color: white;
+    font-weight: 800;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color:rgb(206, 90, 206);
+}
+
+h1 ,
+.mainLinks{
+    text-align: center;
+}
+
+h1{
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.mainLinks{
+    font-size: 30px;
+    list-style: inside;
+}
+
+.images {
+    text-align: center;
+}
